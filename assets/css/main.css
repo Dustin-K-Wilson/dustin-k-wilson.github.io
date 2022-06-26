@@ -1636,7 +1636,8 @@ a {
 		.image.fit {
 			display: block;
 			width: 100%;
-			border: 1px #bbb solid;		
+			border: 1px #bbb solid;	
+			cursor: pointer;
 		}	
 
 		.image.featured {
